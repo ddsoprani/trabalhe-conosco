@@ -56,7 +56,7 @@ Contamos com três fases como parte do nosso processo:
 
 ### Participe
 
-Para participar do nosso processo, envie-nos por e-mail (joinus@controlook.com) seu currículo com a resolução de, no mínimo, 2 desafios abaixo (preferencialmente sendo um link/fork no github, gitlab ou bitbucket):
+Para participar do nosso processo, faça um fork desse repositório resolvendo os 3 problemas abaixo e envie um Pull Request.
 
 ```
 1) Problem Description N॰-1
