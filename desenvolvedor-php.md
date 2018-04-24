@@ -31,8 +31,8 @@ Esta vaga é para o nosso escritório em Vitória/ES.
  - Proficiência no uso de um sistema operacional base Unix (Linux ou Mac OS);
  - Preferência por Open Source;
  - Conhecimento desejável em Cloud, principalmente serviços da AWS e GCP;
- 
- 
+
+
 ## Estou interessado! O que preciso fazer?
 
 Contamos com três fases como parte do nosso processo:
@@ -48,10 +48,10 @@ Contamos com três fases como parte do nosso processo:
  - Testes e Desafios online;
  - Entrevista online;
  - Divulgação dos aprovados para a terceira fase.
- 
+
 ### 3a fase
 
- - Entrevista presencial (interessados de qualquer localidade serão responsáveis pelo próprio transporte e hospedagem);
+ - Entrevista presencial ou por 'hangout' (interessados de qualquer localidade serão responsáveis pelo próprio transporte e hospedagem);
 
 
 ### Participe
